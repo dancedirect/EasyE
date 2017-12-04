@@ -8,5 +8,10 @@
       "name": "Jon Matthews",
       "email": "jon.matthews@dancedirect.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "EasyE\\": "EasyE"
+    }
+  }
 }
